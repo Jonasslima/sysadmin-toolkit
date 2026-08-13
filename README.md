@@ -10,5 +10,5 @@ A lightweight bash scripting toolkit designed for automated system diagnostic ch
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/sysadmin-toolkit.git](https://github.com/SEU_USUARIO/sysadmin-toolkit.git)
+   git clone [https://github.com/Jonasslima/sysadmin-toolkit.git](https://github.com/Jonasslima/sysadmin-toolkit.git)
    cd sysadmin-toolkit
