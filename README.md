@@ -12,3 +12,9 @@ A lightweight bash scripting toolkit designed for automated system diagnostic ch
    ```bash
    git clone [https://github.com/Jonasslima/sysadmin-toolkit.git](https://github.com/Jonasslima/sysadmin-toolkit.git)
    cd sysadmin-toolkit
+
+Tech Stack
+OS: Arch Linux
+Package Manager: pacman
+Language: Bash
+
